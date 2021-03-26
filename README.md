@@ -2,7 +2,7 @@
 
 ## Getting started
 
-1. Install Expo not already installed
+1. Install Expo if not already installed
 
 ```
 npm install --global expo-cli
