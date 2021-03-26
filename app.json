@@ -1,0 +1,12 @@
+{
+  "name": "react-native-glu-communication",
+  "displayName": "react-native-glu-communication",
+  "expo": {
+    "name": "react-native-glu-communication",
+    "slug": "react-native-glu-communication",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
